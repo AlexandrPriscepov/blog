@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Post15"
-subtitle: ""
+title: "Blog 28.05"
+subtitle: "last week 4"
 summary: ""
 authors: []
-tags: []
-categories: []
-date: 2022-05-26T10:31:20+03:00
-lastmod: 2022-05-26T10:31:20+03:00
+tags: [every week]
+categories: [blog]
+date: 2022-05-28T13:41:52+03:00
+lastmod: 2022-05-28T13:41:52+03:00
 featured: false
 draft: false
 
@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+last week i was doing lab work in the classroom.
