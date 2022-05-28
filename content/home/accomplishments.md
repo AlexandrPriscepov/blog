@@ -23,29 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://psv4.userapi.com/c532036/u317748051/docs/d16/faba40b448c0/document_2.pdf?extra=U7z7bGt3vGMan4cSK-rCfmbHt5-Jy4d1wUxo8hBRWzGUS71WMWFx6-XwP_CI9oOGJqv5h16ezs9LjwuG8SWmyfBvtKsnCEuLfs9mk-sQadDOAFEBW5Nvtx3lDfyYJipj-L0Scca7azRzdQUTG9aHHdYODQ&dl=1
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2020-12-30'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: Tinerii Iubesc Moldova
+    organization_url: https://vk.com/tinerii_iubesc_moldova
+    title: Special service to a public organization
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://psv4.userapi.com/c532036/u317748051/docs/d39/9a0a67bcd1d5/document_1.pdf?extra=tOk622n3COnroDxcXdycZ7ZODFeBf3OW0yIIY-kcEis9f8fhZ-JxuhinqTBL6ixvpH9kApRyKdgD5foNVgwqj9gf0ND1p4STkPCllCe325QQEMwyzOwEAF92gtVMQb7AXpFZze1Yy4FBlstMPvLyorrvpw&dl=1
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2021-01-17'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Tinerii Iubesc Moldova
+    organization_url: https://vk.com/tinerii_iubesc_moldova
+    title: Formation of effective structural divisions of the organization
     url: ''
 
 design:
